@@ -10,7 +10,7 @@ What's changed?
 * Initial fork
 
 What will change?
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ 
+-----------------
 * Add a custom server messaging system for when new players join
 * Remove mods: xban2, ufos, tnt
 * Add mods: bags, bridgetool, kpgmobs, severmsg, skylands, teleport_potion, xtend
